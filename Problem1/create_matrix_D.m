@@ -1,2 +1,2 @@
 function D = create_matrix_D()
-D = rand(5);
+D = randi([-3 3],5,5);
