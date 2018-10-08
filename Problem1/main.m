@@ -22,3 +22,12 @@ matrix_C
 
 matrix_D = create_matrix_D();
 matrix_D
+
+Calculation_x = problem2(vector_a);
+Calculation_x
+
+Calculation_y = problem2_2(vector_a, vector_b);
+Calculation_y
+
+Calculation_z = problem2_3(vector_c);
+Calculation_z
